@@ -76,3 +76,11 @@ The final outcome will aim to communicate patterns in my daily movement through 
 | 28/09/2026 | 7014 | 3.27 | 73 |
 | 29/09/2026 | 9665 | 4.14 | 101 |
 | 30/09/2026 | 3159 | 1.47 | 31 |
+
+
+
+## Download Dataset
+
+The dataset contains my daily walking activity, including step counts, distance travelled and active time.
+
+[Download Excel Dataset](Dear%20Data.xlsx)
