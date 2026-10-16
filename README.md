@@ -83,4 +83,4 @@ The final outcome will aim to communicate patterns in my daily movement through 
 
 The dataset contains my daily walking activity, including step counts, distance travelled and active time.
 
-[Download Excel Dataset](Dear%20Data.xlsx)
+[View Walking Activity Dataset (CSV)](Dear_data.csv)
