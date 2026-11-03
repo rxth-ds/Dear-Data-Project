@@ -1,6 +1,10 @@
 # Dear-Data-Project
 # Footsteps Visualised – Dear Data 100
 
+## NOTE:
+I have been accidentally working on this project on my private github account and hence some of the work has been uploaded late/ not matching the current files (for example, the Dear_data.csv file doesn't match the current steps.csv file that has been updated and has more data in it)
+
+
 ## Project Overview
 
 Footsteps Visualised is a creative coding project developed as part of the Dear Data 100 assessment at City St George's, University of London.
